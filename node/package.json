@@ -1,0 +1,17 @@
+{
+  "name": "helloworld",
+  "description": "Hello world.",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Leigh McCulloch",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
