@@ -1,0 +1,7 @@
+[package]
+name = "helloworld"
+version = "1.0.0"
+authors = ["Leigh McCulloch"]
+
+[dependencies.iron]
+version = "*"
